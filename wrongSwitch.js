@@ -13,6 +13,9 @@ const wrongSwitch = (value) => {
       answer += "four";
     case 5:
       answer += "five";
+    default:
+      answer += "default";
+      break;
   }
   return answer;
 }
@@ -22,4 +25,5 @@ console.log(wrongSwitch(2));
 console.log(wrongSwitch(3));
 console.log(wrongSwitch(4));
 console.log(wrongSwitch(5));
+console.log(wrongSwitch(6));
 
