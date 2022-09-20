@@ -1,2 +1,2 @@
-# freecodecamp-golf-code
-Some JS practice using the freeCodeCamp JS Course
+# freecodecamp-js
+Some JS practice using the freeCodeCamp JS Curriculum
